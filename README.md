@@ -5,6 +5,7 @@ Amoeba (Old)
 
 Old version of Amoeba game
 
+* Built with Cocos2d v1.0.0-rc3
 * Works with XCode 4.5.1
 * Works on iOS 5.0 and iOS 5.1
 * Scaling issues present on iOS 6.0
