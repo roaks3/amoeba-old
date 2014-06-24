@@ -1,6 +1,8 @@
 Amoeba (Old)
 ============
 
+![screenshot](amoeba-old-screen.jpg)
+
 Old version of Amoeba game
 
 * Works with XCode 4.5.1
